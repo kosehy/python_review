@@ -15,9 +15,9 @@
 * [Keep In Touch](#keep-in-touch)
 
 ## Introduction  
-
+This repository is for reviewing python language.
 #### About This Project
-
+To getting more familiar with python3, I will keep update python code example.
 #### About Me
 Developer, Designer Be creative!! Currently Studying [@42SiliconValley][42]
 
@@ -25,17 +25,14 @@ Developer, Designer Be creative!! Currently Studying [@42SiliconValley][42]
 [42][42] is a free, non profit, project-based, peer-to-peer learning coding school. It originated in France and now has over 20 campuses all over the world. More information can be found [here][42] 
 
 ## Objective  
-
+To review the python programming
 ## Instructions
-Make sure you have the needed [dependencies](#dependencies) before proceeding.
-For instructions and/or greater detail refer to the project [pdf][pdf]
+
 ## Mandatory part
 
 ## Bonus part
 
 ## Dependencies  
-* A C language compiler most common would be GCC or Clang.
-* These were written to run on Unix based systems, it would likely work on a windows machine too but is currently untested. 
 
 ## Installation 
 
